@@ -6,7 +6,7 @@
 
 * [1장](chapter-1/README.md)
   * [무언가](chapter-1/something.md)
-  * [무엇](chapter-1/something.md#anchor)
+  * [무엇](chapter-1/something.md#1-2)
 
 
 * [2장](chapter-2/README.md)

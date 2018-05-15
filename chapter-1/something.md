@@ -24,6 +24,6 @@ we gonna make **something valuable**
 [id]: http://naver.com/  "제목을 여기에 선택적으로 입력할 수 있습니다"
 
 
-![ki](https://imgnews.pstatic.net/image/001/2018/05/15/PYH2018051515230001300_P2_20180515151605064.jpg?type=w647)
+![ki](https://imgnews.pstatic.net/image/001/2018/05/15/PYH2018051515230001300_P2_20180515151605064.jpg?type=w647) {#1-2}
 
 ![jm](localpic.png)
