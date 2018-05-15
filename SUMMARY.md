@@ -17,6 +17,11 @@
 * [3장](chapter-3/README.md)
   * [최종](chapter-3/last.md)
 
+### Part 3
+
+* [6장](chapter-6/README.md)
+  * [두희테스트](chapter-6/duhui.md)
+
 ----
 
 * [제목없는 마지막 장](farewell.md)
