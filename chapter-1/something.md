@@ -27,3 +27,5 @@ we gonna make **something valuable**
 ![ki](https://imgnews.pstatic.net/image/001/2018/05/15/PYH2018051515230001300_P2_20180515151605064.jpg?type=w647) {#1-2}
 
 ![jm](localpic.png)
+
+임두희가 내용을 더했습니다.
