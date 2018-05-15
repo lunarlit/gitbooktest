@@ -20,3 +20,4 @@
 ----
 
 * [제목없는 마지막 장](farewell.md)
+* [용어사전](GLOSSARY.md)
