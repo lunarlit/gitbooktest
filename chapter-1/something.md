@@ -21,6 +21,8 @@ we gonna make **something valuable**
 
 # 앵커 {#anchor}
 
+[빠따](/GLOSSARY.html#야구)
+
 [id]: http://naver.com/  "제목을 여기에 선택적으로 입력할 수 있습니다"
 
 
