@@ -3,16 +3,10 @@
 ## Part 1
 * [Introduction](README.md)
 * [1장](chapter-1/README.md)
-<<<<<<< HEAD
+
   * [무언가](chapter-1/something.md#head)
   * [무엇](chapter-1/something.md#anchor)
 
-=======
-    * [무언가](chapter-1/something.md)
-    * [무엇](chapter-1/something.md#1-2)
->>>>>>> 5cb9efb39f434fc22f0363a4ae39198547cc297b
-
------
 * [2장](chapter-2/README.md)
     * [무언가2](chapter-2/something.md)
 
