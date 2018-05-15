@@ -12,7 +12,7 @@
 
 ## Part 2
 * [3장](chapter-3/README.md)
-    * [최종](chapter-3/last.md)
+    * [최종1](chapter-3/last.md)
 
 ## Part 3
 * [6장](chapter-6/README.md)
