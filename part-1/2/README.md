@@ -1,11 +1,10 @@
+# 2장
 
 how to be a programmer
 
-
 Jason이 말했습니다.
 
-> Do copy[^2]
-
+> Do copy
 
 ```javascript
 function test() {
@@ -13,11 +12,7 @@ function test() {
 }
 ```
 
----
-
 인라인 `gitbook` 코드
 
-<span style="color:red">원시 HTML</span>
+원시 HTML
 
-
-[^2]: 각주

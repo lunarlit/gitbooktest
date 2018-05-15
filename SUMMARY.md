@@ -1,24 +1,25 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Part 1
-* [Introduction](README.md)
-* [1장](chapter-1/README.md)
 
-  * [무언가1](chapter-1/something.md#0)
-  * [무엇2](chapter-1/something.md#1)
-
-* [2장](chapter-2/README.md)
-    * [무언가2](chapter-2/something.md)
+* [Introduction](part-1/introduction.md)
+* [1장](part-1/1/README.md)
+  * [무언가1](part-1/1/1.md)
+  * 무엇2
+* [2장](part-1/2/README.md)
+  * [무언가2](part-1/2/2.md)
 
 ## Part 2
-* [3장](chapter-3/README.md)
-    * [최종1](chapter-3/last.md)
+
+* [3장](part-2/3/README.md)
+  * [최종1](part-2/3/1.md)
 
 ## Part 3
-* [6장](chapter-6/README.md)
-    * [두희테스트](chapter-6/duhui.md)
 
------
-* [제목없는 마지막 장](farewell.md)
-* [8.용어사전](GLOSSARY.md)
+* [6장](part-3/6/README.md)
+  * [두희테스트](part-3/6/undefined.md)
+* [제목없는 마지막 장](part-3/undefined.md)
+* [8.용어사전](part-3/8..md)
 
