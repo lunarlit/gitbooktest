@@ -4,8 +4,8 @@
 * [Introduction](README.md)
 * [1장](chapter-1/README.md)
 
-  * [무언가](chapter-1/something.md#head)
-  * [무엇](chapter-1/something.md#anchor)
+  * [무언가1](chapter-1/something.md#0)
+  * [무엇2](chapter-1/something.md#1)
 
 * [2장](chapter-2/README.md)
     * [무언가2](chapter-2/something.md)
@@ -20,5 +20,5 @@
 
 -----
 * [제목없는 마지막 장](farewell.md)
-* [용어사전](GLOSSARY.md)
+* [8.용어사전](GLOSSARY.md)
 

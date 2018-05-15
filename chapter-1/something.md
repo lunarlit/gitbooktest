@@ -1,6 +1,6 @@
 
 ---
-서 - 문 {#head}
+서 - 문 {#0}
 ---
 
 ## This is <h2>
@@ -19,9 +19,9 @@ we gonna make **something valuable**
 
 이것은 참조 방식 연결 [예제][id]입니다.
 
-# 앵커 {#anchor}
+# 앵커 {#1}
 
-[빠따](/GLOSSARY.html#야구)
+[빠따](../../../part-3/8#1)
 
 [id]: http://naver.com/  "제목을 여기에 선택적으로 입력할 수 있습니다"
 
